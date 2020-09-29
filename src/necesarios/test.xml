@@ -1,0 +1,8 @@
+<data>
+	<testcamara name='CCTV'>
+			<direccion>0</direccion>
+	</testcamara>
+	<testcamara name='IP'>
+			<direccion>http://192.168.0.2:8080/video</direccion>
+	</testcamara>
+</data>
